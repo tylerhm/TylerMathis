@@ -1,6 +1,12 @@
 <h1 align="center">Hi 👋, I'm Tyler Hostler-Mathis 👨‍💻</h1>
 <h3 align="center">A passionate learner, currently looking forward to a Facebook internship in summer 2021.</h3>
 
+<img src="https://komarev.com/ghpvc/?username=TylerMathis&label=Profile%20views&color=68bcfd&style=flat" alt="TylerMathis" />
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=TylerMathis&theme=dracula&title=Commit,PullRequest,Repositories" alt="TylerMathis" />
+</a>
+
+
 - 🔭 I’m currently working on [Groove](https://www.github.com/ThePoopCrew/expo-app)
 
 - 🌱 I’m currently learning **React and React-Native**
