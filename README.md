@@ -7,9 +7,9 @@
 </a>
 
 
-- 🔭 I’m currently working on [Groove](https://www.github.com/ThePoopCrew/expo-app)
+- 🔭 I’m currently working on **an internship!!**
 
-- 🌱 I’m currently learning **React and React-Native**
+- 🌱 I’m currently learning **Flow, Hack, Recoil, Redux**
 
 - 📫 How to reach me **tylerhm.dev@gmail.com**
 
