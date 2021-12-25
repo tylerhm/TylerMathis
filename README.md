@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tyler Hostler-Mathis 👨‍💻</h1>
-<h3 align="center">Facebook Intern on the Data  Experiences Team</h3>
+<h3 align="center">Facebook Intern on the Data Experiences Team</h3>
 
 <img src="https://komarev.com/ghpvc/?username=TylerMathis&label=Profile%20views&color=68bcfd&style=flat" alt="TylerMathis" />
 <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -7,13 +7,13 @@
 </a>
 
 
-- 🔭 I’m currently working on **an internship!!**
+- 🔭 I’m currently working on **[Hermes](https://github.com/TylerMathis/hermes)**
 
-- 🌱 I’m currently learning **Flow, Hack, Recoil, Redux**
+- 🌱 I’m currently learning **Electron**
 
 - 📫 How to reach me **tylerhm.dev@gmail.com**
 
-- 📄 Know about my experiences: [resume](https://drive.google.com/file/d/1nNthKC6JoF6QeVmtIOHBDdePhLas4pUq/view?usp=sharing)
+- 📄 My experience: [resume](https://drive.google.com/file/d/1nNthKC6JoF6QeVmtIOHBDdePhLas4pUq/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
