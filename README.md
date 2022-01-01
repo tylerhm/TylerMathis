@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **tylerhm.dev@gmail.com**
 
-- 📄 My experience: [resume](https://drive.google.com/file/d/1nNthKC6JoF6QeVmtIOHBDdePhLas4pUq/view?usp=sharing)
+- 📄 My experience: [resume](https://drive.google.com/file/d/1qetVsd19SI4MCt3gZw8m4SV-z8n3ri0O/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
