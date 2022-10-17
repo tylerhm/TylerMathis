@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tyler Hostler-Mathis 👨‍💻</h1>
-<h3 align="center">Sooon to be Meta SWE and member of UCF Programming Team</h3>
+<h3 align="center">Soon to be Meta SWE and member of UCF Programming Team</h3>
 
 <img src="https://komarev.com/ghpvc/?username=TylerMathis&label=Profile%20views&color=68bcfd&style=flat" alt="TylerMathis" />
 <a href="https://github.com/ryo-ma/github-profile-trophy">
