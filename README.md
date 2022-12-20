@@ -7,9 +7,7 @@
 </a>
 
 
-- 🔭 I’m currently working on a **[raytracer](https://github.com/TylerMathis/raytracer)**
-
-- 🌱 I’m currently learning **Computer Graphics**
+- 🔭 I’m currently working on a **[raytracer](https://github.com/TylerMathis/RusTrace) in Rust**
 
 - 📫 How to reach me **tylerhm.dev@gmail.com**
 
