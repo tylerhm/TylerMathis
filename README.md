@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Tyler Hostler-Mathis 👨‍💻</h1>
 <h3 align="center">Soon to be Meta SWE and current member of UCF Programming Team</h3>
 
-<img src="https://komarev.com/ghpvc/?username=TylerMathis&label=Profile%20views&color=68bcfd&style=flat" alt="TylerMathis" />
+<img src="https://komarev.com/ghpvc/?username=tylerhm&label=Profile%20views&color=68bcfd&style=flat" alt="tylerhm" />
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=TylerMathis&theme=dracula&title=Commit,PullRequest,Repositories" alt="TylerMathis" />
+  <img src="https://github-profile-trophy.vercel.app/?username=tylerhm&theme=dracula&title=Commit,PullRequest,Repositories" alt="tylerhm" />
 </a>
 
 
