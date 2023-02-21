@@ -19,4 +19,4 @@
   <a href="https://codeforces.com/profile/tyler.hm" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="tyler.hm" height="30" width="40" /></a>
 </p>
 
-[![Tyler's GitHub stats](https://github-readme-stats.vercel.app/api?username=TylerMathis&show_icons=true&theme=dracula)](https://github.com/TylerMathis)
+[![Tyler's GitHub stats](https://github-readme-stats.vercel.app/api?username=tylerhm&show_icons=true&theme=dracula)](https://github.com/tylerhm)
